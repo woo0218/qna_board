@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: qna_board
+  output:
+    ansi:
+      enabled: always
+  profiles:
+    active: dev
